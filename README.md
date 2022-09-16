@@ -1,6 +1,6 @@
 # how to go incognito on chromebook
 
-[![how to go incognito on chromebook](gett-stateed.png)](https://github.com/techviraal/how.to.go.incognito.on.chromebook)
+[![how to go incognito on chromebook](gett-stateed.png)](https://icncomputer.com/how-to-go-incognito-on-chromebook/)
 
 To go incognito, open Google Chrome on your device. Click the three-dot menu button at the top right of the Chrome window, and then New Incognito Window.
 
